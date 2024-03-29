@@ -10,5 +10,5 @@ Please consult the [terms of use][repology-api] before use.
 
 ## Requirements
 
-[Requests][https://requests.readthedocs.io/]
+[Requests](https://requests.readthedocs.io/)
 
